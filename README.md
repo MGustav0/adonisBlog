@@ -112,7 +112,13 @@ Para fazer o download do [insomnia](https://insomnia.rest/download/), para utili
 
 ## 💻 Layout da Aplicação
 
-<img src="" width="640" heigth="360" />
+### Criar posts
+
+<img src="https://github.com/MGustav0/adonisBlog/blob/master/extras/screenshots/01_-_create_post.png" width="640" heigth="360" />
+
+### Listar posts
+
+<img src="https://github.com/MGustav0/adonisBlog/blob/master/extras/screenshots/02_-_get_post.png" width="640" heigth="360" />
 
 ## ❗️ Resolvendo Problemas
 
