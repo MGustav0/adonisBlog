@@ -30,7 +30,7 @@
 
 🔹 [Tarefas em aberto](#🐙-desenvolvedores)
 
-## Descrição do projeto 🔗 
+## Descrição do projeto
 
 <p align="justify">
   Neste projeto vou demonstrar meus conhecimentos de como utilizar o framework para back-end Adonis, apenas como web-api. Portanto será apenas para demonstrar e verificar o aprendizado da ferramenta com um CRUD básico e autenticação.
