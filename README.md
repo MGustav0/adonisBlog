@@ -8,7 +8,7 @@
 
 ## Tópicos
 
-🔹 [Descrição do projeto](#🔗-descrição-do-projeto)
+🔹 [Descrição do projeto](#descrição-do-projeto)
 
 🔹 [Funcionalidades](#ℹ️-funcionalidades)
 
